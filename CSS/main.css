@@ -9,12 +9,14 @@ header {
   background: url("../IMG/headerbg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   height: 745px;
 }
 header nav {
   width: 700px;
   margin: 0px auto;
   margin-top: 50px;
+  padding-left: 30px;
 }
 header nav ul {
   list-style: none;
